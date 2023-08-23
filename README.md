@@ -92,7 +92,7 @@ function onCropperComplete(value:string) {
 
 [https://xiangrong.pro](https://xiangrong.pro)
 
-[https://www.zeipan.com/admin][https://www.zeipan.com/admin]
+[https://www.zeipan.com/admin](https://www.zeipan.com/admin)
 
 [https://yuepaibao.com](https://yuepaibao.com)
 
