@@ -5,7 +5,7 @@
 演练场：[https://fengyuanchen.github.io/cropperjs/v2/zh/playground.html](https://fengyuanchen.github.io/cropperjs/v2/zh/playground.html)
 
 
-![image](demo.gif)
+![image](https://github.com/vinistudy/cropperjs2.0/blob/main/demo.gif)
 
 ### 安装运行
 
