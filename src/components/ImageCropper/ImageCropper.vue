@@ -30,7 +30,7 @@ interface Emits {
 
 interface Props {
     title: string,
-    path: string,
+    path?: string,
     outWidth?: number,
     conWidth?: number,
     conHeight?: number,
