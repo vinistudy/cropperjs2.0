@@ -4,6 +4,7 @@
 
 演练场：[https://fengyuanchen.github.io/cropperjs/v2/zh/playground.html](https://fengyuanchen.github.io/cropperjs/v2/zh/playground.html)
 
+预览：https://github.com/vinistudy/cropperjs2.0/blob/main/demo.gif
 
 ![image](https://github.com/vinistudy/cropperjs2.0/blob/main/demo.gif)
 
